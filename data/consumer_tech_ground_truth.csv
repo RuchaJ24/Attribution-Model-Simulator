@@ -1,0 +1,6 @@
+channel,ground_truth_weight
+Social,0.3
+Paid Search,0.3
+Email,0.2
+Display,0.15
+Organic,0.05
