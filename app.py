@@ -63,7 +63,7 @@ st.markdown("""
 # =============================================================================
 # CONSTANTS
 # =============================================================================
-DATA_DIR = r'D:\Projects\Attribution Model Simulator\data'
+DATA_DIR = 'data'
 CHANNELS = ['Display', 'Email', 'Organic', 'Paid Search', 'Social']
 
 COLORS = {
