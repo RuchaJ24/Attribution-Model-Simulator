@@ -214,12 +214,12 @@ with st.sidebar:
     
     st.markdown("""
     ### Built by
-    **[Rucha Jadav]**
-    Marketing Science + Data Analytics
+    **Rucha Jadav**
+    (Marketing Science + Data Analytics)
     
-    📧 [rucha.jadav@outlook.com]  
-    💼 [LinkedIn]  
-    💻 [GitHub]
+    📧 rucha.jadav@outlook.com
+    💼 linkedIn - ruchajadav2493
+    💻 GitHub - RuchaJ24
     """)
 
 
